@@ -8,6 +8,7 @@ django = "*"
 psycopg2-binary = "*"
 django-crispy-forms = "*"
 django-allauth = "*"
+pillow = "==6.2.1"
 
 [dev-packages]
 
